@@ -1,3 +1,8 @@
+Ссылка на игру
+
+https://vitaliikalinbet.github.io/JavaScript_GameProject/build/index.html
+
+
 # Gulp Starter Kit - basic gulp boilerplate
 
 ![banner.png](https://cdn.rawgit.com/axZerk/gulp-starter-kit/741020f0/banner.png)
